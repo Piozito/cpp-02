@@ -6,7 +6,7 @@
 /*   By: aaleixo- <aaleixo-@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/06 14:06:49 by aaleixo-          #+#    #+#             */
-/*   Updated: 2025/11/13 10:47:02 by aaleixo-         ###   ########.fr       */
+/*   Updated: 2025/11/14 10:50:23 by aaleixo-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,7 @@
 class Fixed 
 {
 	private:
-		float _num;
+		int _num;
 		static const int _fac = 8;
 
 	public:
